@@ -1,0 +1,46 @@
+h1{
+    background:powderblue;
+  }
+
+p{
+    background:gold;
+} 
+
+body {
+    background: lavender;
+  }
+
+strong {
+    background: violet;
+}  
+
+.square{
+    display:block;clear:both; max-width:900px;
+    background:yellow;float:left;width: 300px;
+}
+
+.rectangle{
+    background:pink;float:left;width:300px;height:202px;
+
+}
+
+.circle{
+    background:beige;width:300px;height:202px;float:left;
+} 
+
+.asdaimg {
+    width: 250px;height: 160px;
+}
+
+.triangle {
+    background:orange;display:block; clear:both; height: 300px;
+} 
+
+h2 {
+    background-color:white;
+} 
+
+.image1,.image2{
+    width: 15px; height: 15px;
+  }
+
